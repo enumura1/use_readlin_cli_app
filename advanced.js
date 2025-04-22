@@ -39,7 +39,7 @@ async function main() {
         } else if (ageNum < 20) {
             console.log('若いですね！これからが楽しみです。');
         } else if (ageNum < 60) {
-            console.log('充実した日々をお過ごしですか？');
+            console.log('充実した日々を過ごしたいですね！');
         } else {
             console.log('豊かな経験をお持ちですね！');
         }
